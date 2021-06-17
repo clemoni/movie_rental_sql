@@ -138,7 +138,7 @@ ROUND(nbr_film/ (SELECT SUM(nbr_film) FROM  top_cat_top_cust) *100, 2) AS percen
 avg_cost
 FROM top_cat_top_cust          
                         
-/* What is the reparation of Active and Inactive customers? */
+/* What is the repartition of Active and Inactive customers? */
 
 WITH inactive_rental AS (
 	SELECT
@@ -189,7 +189,6 @@ avg_spend_month
 FROM active_inactive
 
 /* Can we observe difference between Active and Inactive customers when the average amount spent per month is divided into quartile ? */
-
 
 WITH inactive_rental AS (
 	SELECT
