@@ -190,6 +190,7 @@ FROM active_inactive
 
 /* Can we observe difference between Active and Inactive customers when the average amount spent per month is divided into quartile ? */
 
+
 WITH inactive_rental AS (
 	SELECT
 	c.customer_id, 

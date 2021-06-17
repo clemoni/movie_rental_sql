@@ -1,0 +1,17 @@
+cat_name,nbr_film,percent_cat,avg_cost
+Animation,263,7.89,19.97
+Family,248,7.44,20.27
+Sports,242,7.26,20.99
+Action,234,7.02,21.11
+Foreign,229,6.87,19.13
+Games,224,6.72,20.75
+Documentary,210,6.30,21.01
+Classics,201,6.03,20.72
+New,200,6.00,19.16
+Drama,199,5.97,22.21
+Children,197,5.91,19.68
+Comedy,196,5.88,19.41
+Sci-Fi,196,5.88,21.22
+Horror,171,5.13,19.33
+Travel,164,4.92,18.96
+Music,161,4.83,18.88

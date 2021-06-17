@@ -1,0 +1,9 @@
+quartile,active_status,nbr_active_inactive,percent_active_inactive,avg_nbr_month,avg_spend_month,max_month,min_month
+4,INACTIVE,4,2.68,3.00,43.57,46.56,40.56
+4,ACTIVE,145,97.32,2.77,45.09,70.52,37.93
+3,INACTIVE,4,2.67,3.00,35.91,36.89,34.26
+3,ACTIVE,146,97.33,2.94,34.86,37.91,31.69
+2,INACTIVE,3,2.00,2.67,28.43,28.93,27.93
+2,ACTIVE,147,98.00,3.03,28.74,31.68,25.69
+1,INACTIVE,4,2.67,3.00,19.91,22.93,16.97
+1,ACTIVE,146,97.33,3.13,21.93,25.69,12.62
